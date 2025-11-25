@@ -1,4 +1,4 @@
-<h1 align="center">✨ Ralph Brent Marcelo</h1>
+<h1 align="center">Ralph Brent Marcelo</h1>
 
 <p align="center">
   <em>IT College Student • Online Live Selling Operations Developer</em><br/><br/>
