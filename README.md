@@ -34,9 +34,7 @@
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45"/><br/>MySQL
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="45"/><br/>Docker
-    </td>
+
   </tr>
 </table>
 
@@ -47,9 +45,6 @@
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/><br/>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/vite/646CFF" width="45"/><br/>Vite
     </td>
     <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="45"/><br/>Bootstrap
